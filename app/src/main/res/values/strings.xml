@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Launcher</string>
+    <string name="search_placeholder">Rechercher une app…</string>
+    <string name="empty_favorite_slot">+</string>
+    <string name="picker_title">Choisir une app</string>
+</resources>
